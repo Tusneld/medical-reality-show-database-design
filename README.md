@@ -17,7 +17,7 @@ This project was developed for the **Advanced Database Programming (ADP310)** mo
 
 - Microsoft SQL Server
 - SQL (T-SQL)
-- ERD tools (dbdiagram.io, Draw.io, or Visio)
+- ERD tools (dbdiagram.io Draw.io,)
 
 ## Author
 
