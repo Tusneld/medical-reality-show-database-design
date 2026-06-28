@@ -1,5 +1,8 @@
 # Medical Reality Show Database Design
 
+---
+![SQL SERVER](https://github.com/Tusneld/medical-reality-show-database-design/blob/47e8a880778ecabeab773958d695698e6c23a5b5/sql-server-logo.png)
+---
 This project was developed for the **Advanced Database Programming (ADP310)** module. It is a complete relational database design for managing medical reality TV show data. The design includes:
 
 - A Physical Data Model
